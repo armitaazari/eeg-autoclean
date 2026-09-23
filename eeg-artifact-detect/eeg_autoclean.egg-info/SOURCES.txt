@@ -1,0 +1,10 @@
+README.md
+pyproject.toml
+eeg_autoclean/__init__.py
+eeg_autoclean/detector.py
+eeg_autoclean.egg-info/PKG-INFO
+eeg_autoclean.egg-info/SOURCES.txt
+eeg_autoclean.egg-info/dependency_links.txt
+eeg_autoclean.egg-info/requires.txt
+eeg_autoclean.egg-info/top_level.txt
+tests/test_detector.py
